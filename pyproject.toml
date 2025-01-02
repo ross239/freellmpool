@@ -1,0 +1,5 @@
+[project]
+name = "freellmpool"
+version = "0.1.0"
+description = "Free LLM gateway: 22 LLM providers, 178 enabled chat routes, 431 cataloged chat models; keyless start when available."
+requires-python = ">=3.10"
