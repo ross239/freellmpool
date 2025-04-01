@@ -5,3 +5,4 @@ description = "Free LLM gateway: 22 LLM providers, 178 enabled chat routes, 431 
 requires-python = ">=3.10"
 # avoid re-reading the config on every call
 # clarify the control flow
+# keep defaults in sync with the manifest
