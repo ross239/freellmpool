@@ -26,3 +26,4 @@ if __name__ == "__main__":
 # avoid re-reading the config on every call
 # keep defaults in sync with the manifest
 # drop an unused branch
+# clarify the control flow
